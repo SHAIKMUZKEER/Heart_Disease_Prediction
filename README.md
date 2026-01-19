@@ -1,8 +1,10 @@
+# ❤️ Heart Disease Prediction using Machine Learning
+
 ## 🔍 Code file 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/drive/1YUvNr7GrHn1tumseUix3bQuMezeXTBO3)
 
-# ❤️ Heart Disease Prediction using Machine Learning
+---
 
 ## 📌 Project Overview
 
